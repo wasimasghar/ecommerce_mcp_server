@@ -1,0 +1,21 @@
+# secrets: kabhi GitHub par nahi
+.env
+firebase-key.json
+service-account.json
+-firebase-adminsdk-.json
+
+# python
+venv/
+.venv/
+_pycache_/
+*.pyc
+.pytest_cache/
+
+# editor / os
+.DS_Store
+.vscode/
+.idea/
+
+# local
+*.log
+*.backup.json
